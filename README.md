@@ -1,1 +1,0 @@
-# choiyechan-info.github.io
