@@ -456,7 +456,7 @@ body.video {
 main {
   display: table;
   width: 100%;
-  padding: 0 2vw;
+  padding: 1vw 2vw;
 }
 
 section {
