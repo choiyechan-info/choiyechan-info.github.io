@@ -456,6 +456,7 @@ body.video {
 main {
   display: table;
   width: 100%;
+  padding: 0 2vw;
 }
 
 section {
@@ -465,9 +466,8 @@ section {
 
 /* Behave like a real <td> */
 figure {
-  display: table-cell;
   vertical-align: middle;
-  padding: 0 3vw;
+  padding: 0 2vw;
 }
 
 .formobile {
